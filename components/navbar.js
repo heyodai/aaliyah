@@ -19,16 +19,16 @@ function Navbar() {
                     </form>
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link" href="#">People</a>
+                            <a className="nav-link" href="/people">People</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Groups</a>
+                            <a className="nav-link" href="/groups">Groups</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Events</a>
+                            <a className="nav-link" href="/events">Events</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Reminders</a>
+                            <a className="nav-link" href="/reminders">Reminders</a>
                         </li>
                     </ul>
                 </div>
